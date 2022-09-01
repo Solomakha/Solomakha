@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Соломаха Дмитрий.</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width ="32"/></h1>
 
 - <img src="https://user-images.githubusercontent.com/32102474/187670968-0a783880-6485-4a22-8403-c5a48660092a.png" width="19" height="19"> Git никнейм @Solomakha
 - 👀 Интересуюсь IOS разработкой
