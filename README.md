@@ -5,6 +5,7 @@
 - 👀 Цікавлюсь IOS розробкою
 - <img src="https://user-images.githubusercontent.com/32102474/187675055-c0ad2e83-2230-4038-805b-5217c0ecde67.png" width="20" height="20"> Вивчаю мову програмування Swift.
 - <img src="https://user-images.githubusercontent.com/32102474/187673004-ab912635-209e-4c70-a423-db571064b293.png" width="19" height="19"> Шукаю вакансію "Trainee IOS Developer"
+- <img src="https://media.licdn.com/dms/image/D4D0BAQF9veNryAF6wA/company-logo_200_200/0/1685980210943?e=1703116800&v=beta&t=kPcTKJGlM2REOr0mvvODEJFAnbiKn0vh0p7a2WZ1T_0" width="19" height="19"> Приймаю участь в стартап-проекті компанії " DigitalMindsUA"
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Готовий+до+виконання+тестового+завдання)](https://git.io/typing-svg)
